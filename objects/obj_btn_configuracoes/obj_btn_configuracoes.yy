@@ -2,14 +2,20 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_btn_configuracoes",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Objetos",
     "path": "folders/Objetos.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_btn_menu",
+    "path": "objects/obj_btn_menu/obj_btn_menu.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -26,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_configuracoes",
-    "path": "sprites/spr_configuracoes/spr_configuracoes.yy",
+    "name": "spr_btn",
+    "path": "sprites/spr_btn/spr_btn.yy",
   },
   "spriteMaskId": null,
   "visible": true,

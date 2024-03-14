@@ -11,7 +11,10 @@
     "name": "Objetos",
     "path": "folders/Objetos.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_btn_nivel",
+    "path": "objects/obj_btn_nivel/obj_btn_nivel.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -31,6 +34,9 @@
     "name": "spr_nivel3",
     "path": "sprites/spr_nivel3/spr_nivel3.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_egito",
+    "path": "sprites/spr_egito/spr_egito.yy",
+  },
   "visible": true,
 }

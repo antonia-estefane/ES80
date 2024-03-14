@@ -4,6 +4,8 @@
   "name": "obj_btn_iniciar",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":10,"eventType":7,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -11,7 +13,10 @@
     "name": "Objetos",
     "path": "folders/Objetos.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_btn_menu",
+    "path": "objects/obj_btn_menu/obj_btn_menu.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -28,9 +33,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_iniciar",
-    "path": "sprites/spr_iniciar/spr_iniciar.yy",
+    "name": "spr_btn",
+    "path": "sprites/spr_btn/spr_btn.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_btn",
+    "path": "sprites/spr_btn/spr_btn.yy",
+  },
   "visible": true,
 }

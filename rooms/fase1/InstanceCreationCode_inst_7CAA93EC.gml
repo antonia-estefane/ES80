@@ -1,0 +1,1 @@
+obj_feedback.visible = false;

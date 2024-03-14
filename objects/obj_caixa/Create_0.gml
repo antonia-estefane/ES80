@@ -4,7 +4,3 @@ inst_caixa_niveis = noone;
 mostrar_caixa = false;
 
 
-
-
-
-

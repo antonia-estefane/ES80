@@ -1,0 +1,1 @@
+obj_btn_revisar.visible = false;

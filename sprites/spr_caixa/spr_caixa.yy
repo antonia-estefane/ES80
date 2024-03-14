@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_caixa",
-  "bbox_bottom": 375,
+  "bbox_bottom": 413,
   "bbox_left": 0,
-  "bbox_right": 575,
+  "bbox_right": 631,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a491650d-f031-488f-b16c-14b862267765",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"965e097e-7f79-4bb9-80be-df6bb9f5ce35",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 377,
+  "height": 414,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0207ff55-e762-41c4-9b12-93e2150f6942","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7cd33b0f-2cbe-47e6-aa53-c6ff989229cf","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a491650d-f031-488f-b16c-14b862267765","path":"sprites/spr_caixa/spr_caixa.yy",},},},"Disabled":false,"id":"a3ca77f2-c7f3-43d4-b17c-0aaa8876c885","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"965e097e-7f79-4bb9-80be-df6bb9f5ce35","path":"sprites/spr_caixa/spr_caixa.yy",},},},"Disabled":false,"id":"10b02f2c-4e50-4df8-9c7a-d1899f4b5350","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 577,
+  "width": 632,
 }

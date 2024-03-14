@@ -1,0 +1,1 @@
+obj_intervencao.visible = false;

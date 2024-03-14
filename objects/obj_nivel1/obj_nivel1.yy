@@ -11,7 +11,10 @@
     "name": "Objetos",
     "path": "folders/Objetos.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_btn_nivel",
+    "path": "objects/obj_btn_nivel/obj_btn_nivel.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -28,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_nivel1",
-    "path": "sprites/spr_nivel1/spr_nivel1.yy",
+    "name": "spr_btn_nivel",
+    "path": "sprites/spr_btn_nivel/spr_btn_nivel.yy",
   },
   "spriteMaskId": null,
   "visible": true,
